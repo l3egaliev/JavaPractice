@@ -1,11 +1,8 @@
-package wpm_program;
+package programs;
 
 
 import java.text.DecimalFormat;
-import java.text.Format;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.util.Random;
 import java.util.Scanner;
 
 public class WpmProgram {
